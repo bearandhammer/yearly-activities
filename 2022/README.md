@@ -27,6 +27,7 @@ This section encapsulates personal/professional achievements made throughout the
 
 ### *Professional*
 
+- [x] :small_orange_diamond: Completed a successful secondment within William Martin Compliance as the app team lead. :date: 1st March 2022.
 - [x] :small_orange_diamond: Won the ***Team Work*** award! :date: 18th March 2022.
 
 ---
