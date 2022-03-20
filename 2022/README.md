@@ -33,7 +33,7 @@ This section encapsulates personal/professional achievements made throughout the
 
 ## :postbox: Blog Posts Written
 
-The following list covers ***[bearandhammer.net](https://bearandhammer.net) blog posts I have published this year:
+The following list covers ***[bearandhammer.net](https://bearandhammer.net)*** blog posts I have published this year:
 
 ---
 
