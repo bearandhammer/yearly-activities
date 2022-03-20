@@ -42,6 +42,7 @@ The following list covers ***[bearandhammer.net](https://bearandhammer.net)*** b
 ### *Personal*
 
 - [x] :small_orange_diamond: Black Shuck - The Devil's Dog (Piers Warren). :date: 13th March 2022.
+- [ ] :small_orange_diamond: The Devil's Inn (David Watkins).
 
 ### *Professional*
 
