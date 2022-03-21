@@ -53,6 +53,8 @@ The following list covers ***[bearandhammer.net](https://bearandhammer.net)*** b
 
 ## :godmode: Courses Completed
 
+The following represents courses, under the banner of both personal/professional, that I have undertaken this year (ticked when completed).
+
 ### *Personal*
 
 ### *Professional*
