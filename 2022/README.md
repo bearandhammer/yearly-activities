@@ -19,7 +19,7 @@ This is my running record for 2022 to list all activities, achievements and othe
 
 ## :trophy: Noteworthy Achievements
 
-This section encapsulates personal/professional achievements made throughout the year.
+This section encapsulates personal/professional achievements made throughout the year:
 
 ### *Personal*
 
