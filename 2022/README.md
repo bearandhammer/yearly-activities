@@ -26,6 +26,7 @@ This section encapsulates personal/professional achievements made throughout the
 - [x] :small_orange_diamond: Running for 40 minutes (extending C25K). Working towards a full 5K run (just shy!). :date: 20th March 2022.
 - [x] :small_orange_diamond: 5K run completed (38m 30s). :date: 23rd March 2022.
 - [ ] :small_orange_diamond: Complete 3 5k runs in one week.
+- [ ] :small_orange_diamond: Complete 25 5k runs.
 - [ ] :small_orange_diamond: Complete a 5k run in under 36 minutes.
 - [ ] :small_orange_diamond: Get under 14 stone in weight (first time in a fair few years!).
 
