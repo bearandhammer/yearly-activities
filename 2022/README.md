@@ -74,3 +74,5 @@ The following represents courses, under the banner of both personal/professional
 ---
 
 ## :notebook: Other Notes
+
+- [ ] :small_orange_diamond: Get a second-brain up and running (see [knowledge-vault](https://github.com/bearandhammer/knowledge-vault)).
