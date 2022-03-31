@@ -29,6 +29,7 @@ This section encapsulates personal/professional achievements made throughout the
 - [ ] :small_orange_diamond: Complete twenty five 5k runs.
 - [ ] :small_orange_diamond: Complete a 5k run in under thirty six minutes.
 - [ ] :small_orange_diamond: Get under fourteen stone in weight (first time in a fair few years!).
+- [ ] :small_orange_diamond: Reach 13.5 stone.
 
 ### *Professional*
 
@@ -41,9 +42,9 @@ This section encapsulates personal/professional achievements made throughout the
 
 The following list covers ***[bearandhammer.net](https://bearandhammer.net)*** blog posts I have published this year:
 
+- [x] :small_orange_diamond: Obsidian Notes with GitHub Integration. :date: 31st March 2022
 - [ ] :small_orange_diamond: Runnning SQL Server/MongoDB with Docker on Windows (without Docker Desktop)...in progress.
 - [ ] :small_orange_diamond: Bears top 3 interesting tech nuggets (March 2022)...in progress.
-- [ ] :small_orange_diamond: Obsidian Notes with GitHub Integration...in progress.
 
 ---
 
