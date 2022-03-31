@@ -42,7 +42,7 @@ This section encapsulates personal/professional achievements made throughout the
 
 The following list covers ***[bearandhammer.net](https://bearandhammer.net)*** blog posts I have published this year:
 
-- [x] :small_orange_diamond: Obsidian Notes with GitHub Integration. :date: 31st March 2022
+- [x] :small_orange_diamond: What is Obsidian (and adding the magic dust of GitHub Integration)? :date: 31st March 2022
 - [ ] :small_orange_diamond: Runnning SQL Server/MongoDB with Docker on Windows (without Docker Desktop)...in progress.
 - [ ] :small_orange_diamond: Bears top 3 interesting tech nuggets (March 2022)...in progress.
 
