@@ -70,6 +70,7 @@ The following represents courses, under the banner of both personal/professional
 ### *Professional*
 
 - [ ] :small_orange_diamond: [.NET Core Microservices - The Complete Guide (.NET 6 MVC)](https://www.udemy.com/course/net-core-microservices-the-complete-guide-net-6-mvc/).
+- [ ] :small_orange_diamond: [Microsoft Azure Data Lake Storage Service (Gen1 & Gen2)](https://www.udemy.com/course/microsoft-azure-data-lake/).
 - [ ] :small_orange_diamond: [Azure Serverless Functions and Logic Apps](https://www.udemy.com/course/azure-serverless/).
 - [ ] :small_orange_diamond: [The Complete 2021 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/).
 
