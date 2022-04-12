@@ -27,6 +27,7 @@ This section encapsulates personal/professional achievements made throughout the
 - [x] :small_orange_diamond: 5K run completed (38m 30s). :date: 23rd March 2022.
 - [x] :small_orange_diamond: Complete three 5k runs in one week (seven day period). :date: 28th March 2022
 - [x] :small_orange_diamond: Get under fourteen stone in weight (first time in a fair few years!).
+- [ ] :small_orange_diamond: Sat on this rock for another complete cycle around the sun...in progress.
 - [ ] :small_orange_diamond: Complete twenty five 5k runs.
 - [ ] :small_orange_diamond: Complete a 5k run in under thirty six minutes.
 - [ ] :small_orange_diamond: Reach 13.5 stone.
@@ -69,7 +70,7 @@ The following represents courses, under the banner of both personal/professional
 
 ### *Professional*
 
-- [ ] :small_orange_diamond: [.NET Core Microservices - The Complete Guide (.NET 6 MVC)](https://www.udemy.com/course/net-core-microservices-the-complete-guide-net-6-mvc/).
+- [ ] :small_orange_diamond: [.NET Core Microservices - The Complete Guide (.NET 6 MVC)](https://www.udemy.com/course/net-core-microservices-the-complete-guide-net-6-mvc/)...in progress.
 - [ ] :small_orange_diamond: [Microsoft Azure Data Lake Storage Service (Gen1 & Gen2)](https://www.udemy.com/course/microsoft-azure-data-lake/).
 - [ ] :small_orange_diamond: [Azure Serverless Functions and Logic Apps](https://www.udemy.com/course/azure-serverless/).
 - [ ] :small_orange_diamond: [The Complete 2021 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/).
