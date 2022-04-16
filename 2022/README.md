@@ -25,12 +25,13 @@ This section encapsulates personal/professional achievements made throughout the
 
 - [x] :small_orange_diamond: Running for 40 minutes (extending C25K). Working towards a full 5K run (just shy!). :date: 20th March 2022.
 - [x] :small_orange_diamond: 5K run completed (38m 30s). :date: 23rd March 2022.
-- [x] :small_orange_diamond: Complete three 5k runs in one week (seven day period). :date: 28th March 2022
+- [x] :small_orange_diamond: Complete three 5k runs in one week (seven day period). :date: 28th March 2022.
 - [x] :small_orange_diamond: Get under fourteen stone in weight (first time in a fair few years!).
-- [x] :small_orange_diamond: Sat on this rock for another complete cycle around the sun...in progress.
-- [ ] :small_orange_diamond: Complete twenty five 5k runs.
-- [ ] :small_orange_diamond: Complete a 5k run in under thirty six minutes.
-- [ ] :small_orange_diamond: Reach 13.5 stone.
+- [x] :small_orange_diamond: Sat on this rock for another complete cycle around the sun. :date: 13th March 2022.
+- [x] :small_orange_diamond: Complete a 5k run in under thirty six minutes. :date: 14th April 2022 (35 minutes 54 seconds).
+- [ ] :small_orange_diamond: Complete twenty five 5k runs...in progress.
+- [ ] :small_orange_diamond: Reach 13.5 stone...in progress.
+- [ ] :small_orange_diamond: Complete a 5k run in under thirty five minutes...in progress
 
 ### *Professional*
 
@@ -43,8 +44,8 @@ This section encapsulates personal/professional achievements made throughout the
 
 The following list covers ***[bearandhammer.net](https://bearandhammer.net)*** blog posts I have published this year:
 
-- [x] :small_orange_diamond: What is Obsidian (and adding the magic dust of GitHub Integration)?: [Blog link](https://bearandhammer.net/2022/04/01/what-is-obsidian-and-adding-the-magic-dust-of-github-integration/) :date: 31st March 2022
-- [x] :small_orange_diamond: The Wonderland Of WSL 2 For Windows and Docker Engine Support: [Blog link](https://bearandhammer.net/2022/04/11/the-wonderland-of-wsl-2-for-windows-and-docker-engine-support/) :date: 11th April 2022
+- [x] :small_orange_diamond: What is Obsidian (and adding the magic dust of GitHub Integration)?: [Blog link](https://bearandhammer.net/2022/04/01/what-is-obsidian-and-adding-the-magic-dust-of-github-integration/) :date: 31st March 2022.
+- [x] :small_orange_diamond: The Wonderland Of WSL 2 For Windows and Docker Engine Support: [Blog link](https://bearandhammer.net/2022/04/11/the-wonderland-of-wsl-2-for-windows-and-docker-engine-support/) :date: 11th April 2022.
 - [ ] :small_orange_diamond: Bears top 3 interesting tech nuggets (April 2022)...in progress.
 
 ---
