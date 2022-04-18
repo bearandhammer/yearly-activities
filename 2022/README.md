@@ -33,6 +33,8 @@ This section encapsulates personal/professional achievements made throughout the
 - [ ] :small_orange_diamond: Reach 13.5 stone...in progress.
 - [ ] :small_orange_diamond: Complete a 5k run in under thirty five minutes...in progress
 
+- [ ] :small_orange_diamond: Current 5k PB: 35:53 (to be ticked at the end of the year).
+
 ### *Professional*
 
 - [x] :small_orange_diamond: Completed a successful secondment within William Martin Compliance as the app team lead. :date: 1st March 2022.
