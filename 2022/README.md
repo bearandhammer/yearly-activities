@@ -5,6 +5,7 @@ This is my running record for 2022 to list all activities, achievements and othe
 - [:confetti_ball: 2022 Activities](#confetti_ball-2022-activities)
   - [:trophy: Noteworthy Achievements](#trophy-noteworthy-achievements)
     - [*Personal*](#personal)
+      - [*Running (specific)*](#running-specific)
     - [*Professional*](#professional)
   - [:postbox: Blog Posts Written](#postbox-blog-posts-written)
   - [:blue_book: Books Read](#blue_book-books-read)
@@ -32,6 +33,8 @@ This section encapsulates personal/professional achievements made throughout the
 - [ ] :small_orange_diamond: Complete twenty five 5k runs...in progress.
 - [ ] :small_orange_diamond: Reach 13.5 stone...in progress.
 - [ ] :small_orange_diamond: Complete a 5k run in under thirty five minutes...in progress
+
+#### *Running (specific)*
 
 - [ ] :small_orange_diamond: Current 5k PB: 35:53 (to be ticked at the end of the year) :running_man:.
 
