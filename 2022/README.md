@@ -36,7 +36,7 @@ This section encapsulates personal/professional achievements made throughout the
 
 #### *Running (specific)*
 
-- [ ] :small_orange_diamond: Current 5k PB: 35:53 (to be ticked at the end of the year) :running_man:.
+- [ ] :small_orange_diamond: Current 5k PB: 35:27 (to be ticked at the end of the year) :running_man:.
 
 ### *Professional*
 
