@@ -37,7 +37,7 @@ This section encapsulates personal/professional achievements made throughout the
 
 #### *Running (specific)*
 
-NOTE: This year it would be great to get under 32 minutes, as a minimum benchmark.
+*** NOTE: This year it would be great to get under 32 minutes, as a minimum benchmark. ***
 
 - [ ] :small_orange_diamond: Current 5k PB: 34:35 (to be ticked at the end of the year) :running_man:.
 
