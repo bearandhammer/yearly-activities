@@ -30,13 +30,13 @@ This section encapsulates personal/professional achievements made throughout the
 - [x] :small_orange_diamond: Get under fourteen stone in weight (first time in a fair few years!). :date: 14th April 2022.
 - [x] :small_orange_diamond: Sat on this rock for another complete cycle around the sun. :date: 13th March 2022.
 - [x] :small_orange_diamond: Complete a 5k run in under thirty six minutes. :date: 14th April 2022 (35 minutes 54 seconds).
+- [x] :small_orange_diamond: Complete a 5k run in under thirty five minutes. :date: 24th April 2022 (34 minutes 35 seconds).
 - [ ] :small_orange_diamond: Complete twenty five 5k runs...in progress.
 - [ ] :small_orange_diamond: Reach 13.5 stone...in progress.
-- [ ] :small_orange_diamond: Complete a 5k run in under thirty five minutes...in progress
 
 #### *Running (specific)*
 
-- [ ] :small_orange_diamond: Current 5k PB: 35:27 (to be ticked at the end of the year) :running_man:.
+- [ ] :small_orange_diamond: Current 5k PB: 34:35 (to be ticked at the end of the year) :running_man:.
 
 ### *Professional*
 
