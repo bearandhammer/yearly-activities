@@ -90,3 +90,4 @@ The following represents courses, under the banner of both personal/professional
 
 - [x] :small_orange_diamond: Get a second-brain up and running (see [knowledge-vault](https://github.com/bearandhammer/knowledge-vault)).
 - [ ] Yearly market research (development trends, salaries, etc).
+- [ ] Investigate basic exam paths.
