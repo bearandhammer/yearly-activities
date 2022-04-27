@@ -45,6 +45,7 @@ This section encapsulates personal/professional achievements made throughout the
 
 - [x] :small_orange_diamond: Completed a successful secondment within William Martin Compliance as the app team lead. :date: 1st March 2022.
 - [x] :small_orange_diamond: Won the ***Team Work*** award! :date: 18th March 2022.
+- [ ] :small_orange_diamond: Attended Microsoft Build (24th/25th May).
 
 ---
 
@@ -55,6 +56,7 @@ The following list covers ***[bearandhammer.net](https://bearandhammer.net)*** b
 - [x] :small_orange_diamond: What is Obsidian (and adding the magic dust of GitHub Integration)?: [Blog link](https://bearandhammer.net/2022/04/01/what-is-obsidian-and-adding-the-magic-dust-of-github-integration/) :date: 31st March 2022.
 - [x] :small_orange_diamond: The Wonderland Of WSL 2 For Windows and Docker Engine Support: [Blog link](https://bearandhammer.net/2022/04/11/the-wonderland-of-wsl-2-for-windows-and-docker-engine-support/) :date: 11th April 2022.
 - [ ] :small_orange_diamond: Bears top 3 interesting tech nuggets (April 2022)...in progress.
+- [ ] :small_orange_diamond: Microsoft Build 2022...planned.
 
 ---
 
