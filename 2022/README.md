@@ -14,6 +14,7 @@ This is my running record for 2022 to list all activities, achievements and othe
   - [:godmode: Courses Completed](#godmode-courses-completed)
     - [*Personal*](#personal-2)
     - [*Professional*](#professional-2)
+  - [- [ ] :small_orange_diamond: Software Architecture: Meta and SOLID Principles in C#.](#----small_orange_diamond-software-architecture-meta-and-solid-principles-in-c)
   - [:notebook: Other Notes](#notebook-other-notes)
 
 ---
@@ -85,7 +86,7 @@ The following represents courses, under the banner of both personal/professional
 - [ ] :small_orange_diamond: [Microsoft Azure Data Lake Storage Service (Gen1 & Gen2)](https://www.udemy.com/course/microsoft-azure-data-lake/).
 - [ ] :small_orange_diamond: [Azure Serverless Functions and Logic Apps](https://www.udemy.com/course/azure-serverless/).
 - [ ] :small_orange_diamond: [The Complete 2021 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/).
-
+- [ ] :small_orange_diamond: [Software Architecture: Meta and SOLID Principles in C#](https://www.udemy.com/course/solid-principles/).
 ---
 
 ## :notebook: Other Notes
