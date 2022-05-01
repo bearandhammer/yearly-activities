@@ -38,6 +38,8 @@ This section encapsulates personal/professional achievements made throughout the
 - [ ] :small_orange_diamond: Go under 29% body fat.
 - [ ] :small_orange_diamond: Go under 28% body fat.
 - [ ] :small_orange_diamond: Reach 13 stone 4 lbs (then re-assess).
+- [ ] :small_orange_diamond: Obtain a FitBit fitness score of 43.
+- [ ] :small_orange_diamond: Decrease metabolic age (estimate) to 41.
 
 #### *Running (specific)*
 
