@@ -37,7 +37,7 @@ This section encapsulates personal/professional achievements made throughout the
 - [ ] :small_orange_diamond: Reach 13.5 stone...in progress. (CLOSE!!!).
 - [ ] :small_orange_diamond: Go under 29% body fat.
 - [ ] :small_orange_diamond: Go under 28% body fat.
-- [ ] :small_orange_diamond: Reach 13 stone 4 llbs (then re-assess).
+- [ ] :small_orange_diamond: Reach 13 stone 4 lbs (then re-assess).
 
 #### *Running (specific)*
 
