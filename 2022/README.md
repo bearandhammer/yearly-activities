@@ -99,5 +99,5 @@ The following represents courses, under the banner of both personal/professional
 ## :notebook: Other Notes
 
 - [x] :small_orange_diamond: Get a second-brain up and running (see [knowledge-vault](https://github.com/bearandhammer/knowledge-vault)).
-- [x] Yearly market research (development trends, salaries, etc).
-- [ ] Investigate basic exam paths.
+- [x] :small_orange_diamond: Yearly market research (development trends, salaries, etc).
+- [ ] :small_orange_diamond: Investigate basic exam paths.
