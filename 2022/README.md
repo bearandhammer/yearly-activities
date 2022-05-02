@@ -14,7 +14,6 @@ This is my running record for 2022 to list all activities, achievements and othe
   - [:godmode: Courses Completed](#godmode-courses-completed)
     - [*Personal*](#personal-2)
     - [*Professional*](#professional-2)
-  - [- [ ] :small_orange_diamond: High Performance Coding with .NET Core and C#.](#----small_orange_diamond-high-performance-coding-with-net-core-and-c)
   - [:notebook: Other Notes](#notebook-other-notes)
 
 ---
@@ -95,7 +94,7 @@ The following represents courses, under the banner of both personal/professional
 - [ ] :small_orange_diamond: [Datadog: Performance monitoring tool (from Zero to Hero)](https://www.udemy.com/course/datadog-performance-monitoring-tool-from-zero-to-hero/).
 - [ ] :small_orange_diamond: [An Introduction to DataDog for Developers](https://www.udemy.com/course/datadog-for-devops/).
 - [ ] :small_orange_diamond: [High Performance Coding with .NET Core and C#](https://www.udemy.com/course/high-performance-coding-with-net-core-and-csharp/).
----
+- [ ] :small_orange_diamond: [What's New in C#7, C#8, C#9 and C#10](https://www.udemy.com/course/csharp7-whats-new/).
 
 ## :notebook: Other Notes
 
