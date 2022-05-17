@@ -75,7 +75,7 @@ The following list covers ***[bearandhammer.net](https://bearandhammer.net)*** b
 
 ### *Professional*
 
-- [ ] :small_orange_diamond: Atomic Habits (James Clear)...in progress.
+- [ ] :small_orange_diamond: Atomic Habits (James Clear)...CLOSE!!!
 
 ---
 
