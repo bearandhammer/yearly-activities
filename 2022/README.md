@@ -90,8 +90,8 @@ The following represents courses, under the banner of both personal/professional
 
 ### *Professional*
 
+- [x] :small_orange_diamond: [Microsoft Azure Data Lake Storage Service (Gen1 & Gen2)](https://www.udemy.com/course/microsoft-azure-data-lake/). :date: 19th May 2022.
 - [ ] :small_orange_diamond: [.NET Core Microservices - The Complete Guide (.NET 6 MVC)](https://www.udemy.com/course/net-core-microservices-the-complete-guide-net-6-mvc/)...in progress.
-- [ ] :small_orange_diamond: [Microsoft Azure Data Lake Storage Service (Gen1 & Gen2)](https://www.udemy.com/course/microsoft-azure-data-lake/)...in progress.
 - [ ] :small_orange_diamond: [What's New in C#7, C#8, C#9 and C#10](https://www.udemy.com/course/csharp7-whats-new/)...in progress.
 - [ ] :small_orange_diamond: [Azure Serverless Functions and Logic Apps](https://www.udemy.com/course/azure-serverless/).
 - [ ] :small_orange_diamond: [The Complete 2021 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/).
