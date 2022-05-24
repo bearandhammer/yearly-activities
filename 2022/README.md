@@ -38,6 +38,7 @@ This section encapsulates personal/professional achievements made throughout the
 - [x] :small_orange_diamond: Reach 13 stone 3 lbs. :date: 20th May 2022.
 - [x] :small_orange_diamond: Obtain a FitBit fitness score of 43. :date: 20th May 2022.
 - [ ] :small_orange_diamond: Go under 28% body fat.
+- [ ] :small_orange_diamond: Reach 13 stone.
 - [ ] :small_orange_diamond: Complete twenty five 5k runs...in progress.
 - [ ] :small_orange_diamond: Decrease metabolic age (estimate) to 40.
 - [ ] :small_orange_diamond: Obtain a FitBit fitness score of 44.
