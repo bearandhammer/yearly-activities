@@ -54,7 +54,7 @@ This section encapsulates personal/professional achievements made throughout the
 
 - [x] :small_orange_diamond: Completed a successful secondment within William Martin Compliance as the app team lead. :date: 1st March 2022.
 - [x] :small_orange_diamond: Won the ***Team Work*** award! :date: 18th March 2022.
-- [ ] :small_orange_diamond: Attended Microsoft Build (24th/25th May).
+- [x] :small_orange_diamond: Attended Microsoft Build (24th/25th May). :date: 26th May 2022.
 
 ---
 
