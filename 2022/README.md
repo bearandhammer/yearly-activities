@@ -40,6 +40,7 @@ This section encapsulates personal/professional achievements made throughout the
 - [x] :small_orange_diamond: Go under 28% body fat. :date: 31st May 2022.
 - [x] :small_orange_diamond: Decrease metabolic age (estimate) to 40. :date: 4th June 2022.
 - [x] :small_orange_diamond: Obtain a FitBit fitness score of 44. :date: 4th June 2022.
+- [x] :small_orange_diamond: Obtain a FitBit fitness marked as 'good'. :date: 6th June 2022.
 - [ ] :small_orange_diamond: Reach 13 stone...CLOSE!!!
 - [ ] :small_orange_diamond: Complete twenty five 5k runs...CLOSE!!!
 - [ ] :small_orange_diamond: Obtain a FitBit fitness score of 45.
@@ -49,7 +50,7 @@ This section encapsulates personal/professional achievements made throughout the
 ***NOTE: This year it would be great to get under 32 minutes, as a minimum benchmark.***
 
 - [ ] :small_orange_diamond: Current 5k PB: 32:41 (to be ticked at the end of the year) :running_man:.
-- [ ] :small_orange_diamond: Longest distance run: 6k. :running_man:.
+- [ ] :small_orange_diamond: Longest distance run: 6k. (PB: 40:12). :running_man:.
 
 ### *Professional*
 
