@@ -43,8 +43,8 @@ This section encapsulates personal/professional achievements made throughout the
 - [x] :small_orange_diamond: Obtain a FitBit fitness marked as 'good'. :date: 6th June 2022.
 - [x] :small_orange_diamond: Reach 13 stone. :date: 6th June 2022.
 - [ ] :small_orange_diamond: Complete twenty five 5k runs...CLOSE!!!
-- [ ] :small_orange_diamond: Reach 12 stone 9 lbs.
-- [ ] :small_orange_diamond: Go under 27% body fat.
+- [ ] :small_orange_diamond: Reach 12 stone 9 lbs...CLOSE!!!
+- [ ] :small_orange_diamond: Go under 27% body fat...CLOSE!!!
 - [ ] :small_orange_diamond: Obtain a FitBit fitness score of 45.
 
 #### *Running (specific)*
