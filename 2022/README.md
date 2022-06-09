@@ -46,10 +46,11 @@ This section encapsulates personal/professional achievements made throughout the
 - [ ] :small_orange_diamond: Reach 12 stone 9 lbs...CLOSE!!!
 - [ ] :small_orange_diamond: Go under 27% body fat...CLOSE!!!
 - [ ] :small_orange_diamond: Obtain a FitBit fitness score of 45.
+- [ ] :small_orange_diamond: Complete a 10k run.
 
 #### *Running (specific)*
 
-***NOTE: This year it would be great to get under 32 minutes, as a minimum benchmark.***
+***NOTE: This year it would be great to get under 32 minutes at 5k, as a minimum benchmark.***
 
 - [ ] :small_orange_diamond: Current 5k PB: 32:41 (to be ticked at the end of the year) :running_man:.
 - [ ] :small_orange_diamond: Longest distance run: 6k. (PB: 40:12). :running_man:.
