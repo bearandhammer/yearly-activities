@@ -69,7 +69,7 @@ The following list covers ***[bearandhammer.net](https://bearandhammer.net)*** b
 
 - [x] :small_orange_diamond: What is Obsidian (and adding the magic dust of GitHub Integration)?: [Blog link](https://bearandhammer.net/2022/04/01/what-is-obsidian-and-adding-the-magic-dust-of-github-integration/) :date: 31st March 2022.
 - [x] :small_orange_diamond: The Wonderland Of WSL 2 For Windows and Docker Engine Support: [Blog link](https://bearandhammer.net/2022/04/11/the-wonderland-of-wsl-2-for-windows-and-docker-engine-support/) :date: 11th April 2022.
-- [ ] :small_orange_diamond: Bears top 3 interesting tech nuggets (May 2022)...in progress.
+- [ ] :small_orange_diamond: Bears top 3 interesting tech nuggets (June 2022)...in progress.
 - [ ] :small_orange_diamond: Microsoft Build 2022...planned.
 - [ ] :small_orange_diamond: C#8 - C#10 key language features...planned.
 
