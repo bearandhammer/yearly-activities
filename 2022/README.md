@@ -73,6 +73,7 @@ The following list covers ***[bearandhammer.net](https://bearandhammer.net)*** b
 - [ ] :small_orange_diamond: Bears top 3 interesting tech nuggets (June 2022)...in progress.
 - [ ] :small_orange_diamond: Microsoft Build 2022...planned.
 - [ ] :small_orange_diamond: C#7 - C#10 key language features...planned.
+- [ ] :small_orange_diamond: C#11 language feature preview.
 
 ---
 
