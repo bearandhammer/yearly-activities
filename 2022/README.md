@@ -48,6 +48,8 @@ This section encapsulates personal/professional achievements made throughout the
 - [ ] :small_orange_diamond: Go under 27% body fat...CLOSE!!!
 - [ ] :small_orange_diamond: Obtain a FitBit fitness score of 45.
 - [ ] :small_orange_diamond: Complete a 10k run.
+- [ ] :small_orange_diamond: Be able to complete 20 banded push ups.
+- [ ] :small_orange_diamond: Be able to complete 40 standard push ups.
 
 #### *Running (specific)*
 
