@@ -114,4 +114,5 @@ The following represents courses, under the banner of both personal/professional
 
 - [x] :small_orange_diamond: Get a second-brain up and running (see [knowledge-vault](https://github.com/bearandhammer/knowledge-vault)).
 - [x] :small_orange_diamond: Yearly market research (development trends, salaries, etc).
+- [ ] :small_orange_diamond: More detailed market research (what is on the cards for tail end of 2022).
 - [ ] :small_orange_diamond: Investigate basic exam paths.
