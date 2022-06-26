@@ -88,7 +88,7 @@ The following list covers ***[bearandhammer.net](https://bearandhammer.net)*** b
 
 ### *Professional*
 
-- [ ] :small_orange_diamond: Atomic Habits (James Clear)...CLOSE!!!
+- [x] :small_orange_diamond: Atomic Habits (James Clear). :date: 25th June 2022.
 
 ---
 
