@@ -44,6 +44,7 @@ This section encapsulates personal/professional achievements made throughout the
 - [x] :small_orange_diamond: Reach 13 stone. :date: 6th June 2022.
 - [x] :small_orange_diamond: Complete twenty five 5k runs. :date: 13th June 2022.
 - [x] :small_orange_diamond: Complete one hundred morning walks :walking:. :date: 13th June 2022.
+- [x] :small_orange_diamond: Thirty five thousand steps in one day :walking:. :date: 6th July 2022.
 - [ ] :small_orange_diamond: Reach 12 stone 9 lbs...CLOSE!!!
 - [ ] :small_orange_diamond: Go under 27% body fat...CLOSE!!!
 - [ ] :small_orange_diamond: Obtain a FitBit fitness score of 45.
