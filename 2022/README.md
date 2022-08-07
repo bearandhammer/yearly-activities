@@ -91,6 +91,10 @@ The following list covers ***[bearandhammer.net](https://bearandhammer.net)*** b
 ### *Professional*
 
 - [x] :small_orange_diamond: Atomic Habits (James Clear). :date: 25th June 2022.
+- [ ] :small_orange_diamond: Breath: The New Science of a Lost Art (James Nestor).
+- [ ] :small_orange_diamond: The Wim Hof Method.
+- [ ] :small_orange_diamond: The Motivation Myth (Jeff Haden).
+- [ ] :small_orange_diamond: How Life Imitates Chess (Garry Kasparov).
 
 ---
 
