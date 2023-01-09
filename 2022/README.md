@@ -2,13 +2,13 @@
 
 This is my running record for 2022 to list all activities, achievements and other noteworthy things that have cropped up! :smile:
 
-- [:confetti_ball: 2022 Activities](#confetti_ball-2022-activities)
+- [:confetti\_ball: 2022 Activities](#confetti_ball-2022-activities)
   - [:trophy: Noteworthy Achievements](#trophy-noteworthy-achievements)
     - [*Personal*](#personal)
       - [*Running (specific)*](#running-specific)
     - [*Professional*](#professional)
   - [:postbox: Blog Posts Written](#postbox-blog-posts-written)
-  - [:blue_book: Books Read](#blue_book-books-read)
+  - [:blue\_book: Books Read](#blue_book-books-read)
     - [*Personal*](#personal-1)
     - [*Professional*](#professional-1)
   - [:godmode: Courses Completed](#godmode-courses-completed)
@@ -45,25 +45,23 @@ This section encapsulates personal/professional achievements made throughout the
 - [x] :small_orange_diamond: Complete twenty five 5k runs. :date: 13th June 2022.
 - [x] :small_orange_diamond: Complete one hundred morning walks :walking:. :date: 13th June 2022.
 - [x] :small_orange_diamond: Thirty five thousand steps in one day :walking:. :date: 6th July 2022.
-- [ ] :small_orange_diamond: Reach 12 stone 9 lbs...CLOSE!!!
-- [ ] :small_orange_diamond: Go under 27% body fat...CLOSE!!!
-- [ ] :small_orange_diamond: Obtain a FitBit fitness score of 45.
-- [ ] :small_orange_diamond: Complete a 10k run.
-- [ ] :small_orange_diamond: Be able to complete 20 banded push ups.
-- [ ] :small_orange_diamond: Be able to complete 40 standard push ups.
+- [x] :small_orange_diamond: Reach 12 stone 9 lbs. :date: ~End of July 2022.
 
 #### *Running (specific)*
 
 ***NOTE: This year it would be great to get under 32 minutes at 5k, as a minimum benchmark.***
 
-- [ ] :small_orange_diamond: Current 5k PB: 32:41 (to be ticked at the end of the year) :running_man:.
-- [ ] :small_orange_diamond: Longest distance run: 6k. (PB: 39:31). :running_man:.
+- [x] :small_orange_diamond: Current 5k PB: 32:41 (to be ticked at the end of the year) :running_man:.
+- [x] :small_orange_diamond: Longest distance run: 6k. (PB: 39:31). :running_man:.
 
 ### *Professional*
 
-- [x] :small_orange_diamond: Completed a successful secondment within William Martin Compliance as the app team lead. :date: 1st March 2022.
+- [x] :small_orange_diamond: Completed a successful secondment within William Martin Compliance as the App Team Lead. :date: 1st March 2022.
 - [x] :small_orange_diamond: Won the ***Team Work*** award! :date: 18th March 2022.
 - [x] :small_orange_diamond: Attended Microsoft Build (24th/25th May). :date: 26th May 2022.
+- [x] :small_orange_diamond: Successful period as the C# Team Lead (web). :date: until December 2022.
+- [x] :small_orange_diamond: Promotion to Principle Developer. :date: 1st December 2022.
+- [x] :small_orange_diamond: Feedback - "best manager ever"!
 
 ---
 
@@ -73,11 +71,6 @@ The following list covers ***[bearandhammer.net](https://bearandhammer.net)*** b
 
 - [x] :small_orange_diamond: What is Obsidian (and adding the magic dust of GitHub Integration)?: [Blog link](https://bearandhammer.net/2022/04/01/what-is-obsidian-and-adding-the-magic-dust-of-github-integration/) :date: 31st March 2022.
 - [x] :small_orange_diamond: The Wonderland Of WSL 2 For Windows and Docker Engine Support: [Blog link](https://bearandhammer.net/2022/04/11/the-wonderland-of-wsl-2-for-windows-and-docker-engine-support/) :date: 11th April 2022.
-- [ ] :small_orange_diamond: Bears top 3 interesting tech nuggets (June 2022)...in progress.
-- [ ] :small_orange_diamond: BenchmarkDotNet tour...planned.
-- [ ] :small_orange_diamond: Microsoft Build 2022...planned.
-- [ ] :small_orange_diamond: C#7 - C#10 key language features...planned.
-- [ ] :small_orange_diamond: C#11 language feature preview.
 
 ---
 
@@ -86,15 +79,10 @@ The following list covers ***[bearandhammer.net](https://bearandhammer.net)*** b
 ### *Personal*
 
 - [x] :small_orange_diamond: Black Shuck - The Devil's Dog (Piers Warren). :date: 13th March 2022.
-- [ ] :small_orange_diamond: The Devil's Inn (David Watkins)...in progress.
 
 ### *Professional*
 
 - [x] :small_orange_diamond: Atomic Habits (James Clear). :date: 25th June 2022.
-- [ ] :small_orange_diamond: Breath: The New Science of a Lost Art (James Nestor)...in progress.
-- [ ] :small_orange_diamond: The Wim Hof Method...in progress.
-- [ ] :small_orange_diamond: The Motivation Myth (Jeff Haden).
-- [ ] :small_orange_diamond: How Life Imitates Chess (Garry Kasparov).
 
 ---
 
@@ -107,18 +95,10 @@ The following represents courses, under the banner of both personal/professional
 ### *Professional*
 
 - [x] :small_orange_diamond: [Microsoft Azure Data Lake Storage Service (Gen1 & Gen2)](https://www.udemy.com/course/microsoft-azure-data-lake/). :date: 19th May 2022.
-- [ ] :small_orange_diamond: [What's New in C#7, C#8, C#9 and C#10](https://www.udemy.com/course/csharp7-whats-new/)...in progress.
-- [ ] :small_orange_diamond: [.NET Core Microservices - The Complete Guide (.NET 6 MVC)](https://www.udemy.com/course/net-core-microservices-the-complete-guide-net-6-mvc/)...in progress.
-- [ ] :small_orange_diamond: [The Complete 2021 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)...in progress.
-- [ ] :small_orange_diamond: [Azure Serverless Functions and Logic Apps](https://www.udemy.com/course/azure-serverless/).
-- [ ] :small_orange_diamond: [Software Architecture: Meta and SOLID Principles in C#](https://www.udemy.com/course/solid-principles/).
-- [ ] :small_orange_diamond: [Datadog: Performance monitoring tool (from Zero to Hero)](https://www.udemy.com/course/datadog-performance-monitoring-tool-from-zero-to-hero/).
-- [ ] :small_orange_diamond: [An Introduction to DataDog for Developers](https://www.udemy.com/course/datadog-for-devops/).
-- [ ] :small_orange_diamond: [High Performance Coding with .NET Core and C#](https://www.udemy.com/course/high-performance-coding-with-net-core-and-csharp/).
 
 ## :notebook: Other Notes
 
 - [x] :small_orange_diamond: Get a second-brain up and running (see [knowledge-vault](https://github.com/bearandhammer/knowledge-vault)).
 - [x] :small_orange_diamond: Yearly market research (development trends, salaries, etc).
-- [ ] :small_orange_diamond: More detailed market research (what is on the cards for tail end of 2022)...planned.
-- [ ] :small_orange_diamond: Investigate basic exam paths.
+- [x] :small_orange_diamond: More detailed market research (what is on the cards for tail end of 2022)...planned.
+- [x] :small_orange_diamond: Investigate basic exam paths.
