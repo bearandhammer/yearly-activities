@@ -46,6 +46,7 @@ This section encapsulates personal/professional achievements made throughout the
 - [x] :small_orange_diamond: Complete one hundred morning walks :walking:. :date: 13th June 2022.
 - [x] :small_orange_diamond: Thirty five thousand steps in one day :walking:. :date: 6th July 2022.
 - [x] :small_orange_diamond: Reach 12 stone 9 lbs. :date: ~End of July 2022.
+- [x] :small_orange_diamond: Complete 6k run under 40 minutes. :date: ~End of July 2022 (39 minutes 31 seconds).
 
 #### *Running (specific)*
 
