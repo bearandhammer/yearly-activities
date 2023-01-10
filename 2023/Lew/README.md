@@ -24,6 +24,14 @@ This section encapsulates personal/professional achievements made throughout the
 
 ### *Personal*
 
+- [ ] :small_orange_diamond: Reach 12 stone 7 lbs.
+- [ ] :small_orange_diamond: Reach 12 stone 3 lbs.
+- [ ] :small_orange_diamond: Get under 27% body fat.
+- [ ] :small_orange_diamond: Get under 26% body fat.
+- [ ] Complete a 6.5K run.
+- [ ] Complete a 7K run.
+- [ ] Complete a 5K run in under thirty two minutes.
+
 #### *Running (specific)*
 
 ***NOTE: This year it would be great to get under 32 minutes at 5K, as a minimum benchmark. Also, let's complete that 10K (at least once!).***
@@ -45,7 +53,17 @@ The following list covers ***[bearandhammer.net](https://bearandhammer.net)*** b
 
 ### *Personal*
 
+- [ ] :small_orange_diamond: The Lighting Cage (Alan Wall).
+- [ ] :small_orange_diamond: Spark (Dr John J. Ratey and Eric Hagerman).
+- [ ] :small_orange_diamond: The Happiness Trap (Russ Harris).
+- [ ] :small_orange_diamond: The Devil's Inn (David Watkins).
+- [ ] :small_orange_diamond: Breathe (James Nestor).
+- [ ] :small_orange_diamond: The Wim Hof Method (Wim Hof).
+- [ ] :small_orange_diamond: How Life Imitates Chess (Gary Kasparov).
+
 ### *Professional*
+
+- [ ] :small_orange_diamond: The Motivation Myth (Jeff Haden).
 
 ---
 
@@ -56,5 +74,10 @@ The following represents courses, under the banner of both personal/professional
 ### *Personal*
 
 ### *Professional*
+
+- [ ] :small_orange_diamond: [What's New in C#7, C#8, C#9 and C#10](https://www.udemy.com/course/csharp7-whats-new/).
+- [ ] :small_orange_diamond: [AZ-900: Microsoft Azure Fundamentals Exam Prep](https://www.udemy.com/course/az900-azure/).
+- [ ] :small_orange_diamond: [AZ-204 Developing Solutions for Microsoft Azure](https://www.udemy.com/course/70532-azure/).
+- [ ] :small_orange_diamond: [AZ-104 Microsoft Azure Administrator Exam Prep](https://www.udemy.com/course/70533-azure/). 
 
 ## :notebook: Other Notes
