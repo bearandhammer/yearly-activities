@@ -26,7 +26,7 @@ This section encapsulates personal/professional achievements made throughout the
 
 #### *Running (specific)*
 
-***NOTE: This year it would be great to get under 32 minutes at 5k, as a minimum benchmark.***
+***NOTE: This year it would be great to get under 32 minutes at 5K, as a minimum benchmark. Also, let's complete that 10K (at least once!).***
 
 - [x] :small_orange_diamond: Current 5k PB: ..:.. (to be ticked at the end of the year) :running_man:.
 - [x] :small_orange_diamond: Longest distance run: .... (PB: ..:..). :running_man:.
@@ -40,7 +40,6 @@ This section encapsulates personal/professional achievements made throughout the
 ## :postbox: Blog Posts Written
 
 The following list covers ***[bearandhammer.net](https://bearandhammer.net)*** blog posts I have published this year:
-
 
 ---
 
