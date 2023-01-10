@@ -28,12 +28,10 @@ This section encapsulates personal/professional achievements made throughout the
 
 ***NOTE: This year it would be great to get under 32 minutes at 5K, as a minimum benchmark. Also, let's complete that 10K (at least once!).***
 
-- [x] :small_orange_diamond: Current 5k PB: ..:.. (to be ticked at the end of the year) :running_man:.
-- [x] :small_orange_diamond: Longest distance run: .... (PB: ..:..). :running_man:.
+- [ ] :small_orange_diamond: Current 5k PB: ..:.. (to be ticked at the end of the year) :running_man:.
+- [ ] :small_orange_diamond: Longest distance run: .... (PB: ..:..). :running_man:.
 
 ### *Professional*
-
-- [x] :small_orange_diamond: Completed a successful secondment within William Martin Compliance as the App Team Lead. :date: 1st March 2022.
 
 ---
 
