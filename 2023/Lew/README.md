@@ -81,3 +81,5 @@ The following represents courses, under the banner of both personal/professional
 - [ ] :small_orange_diamond: [AZ-104 Microsoft Azure Administrator Exam Prep](https://www.udemy.com/course/70533-azure/). 
 
 ## :notebook: Other Notes
+
+- [x] Improve the house. New fridge/freezer inbound. :date: 11th January 2023.
