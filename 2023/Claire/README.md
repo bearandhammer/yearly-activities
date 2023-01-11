@@ -113,3 +113,5 @@ The following represents courses, under the banner of both personal/professional
 The following represents epic moments throughout the year. A great meal, a chess victory, a great day out...literally anything we should remember!
 
 ## :notebook: Other Notes
+
+- [x] Improve the house. New fridge/freezer inbound. :date: 11th January 2023.
