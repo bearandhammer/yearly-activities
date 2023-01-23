@@ -55,8 +55,8 @@ The following represents courses, under the banner of both personal/professional
 ## :walking: Walking Log
 
 - [x] :small_orange_diamond: WK 1: ***62,504 steps.***
-- [ ] :small_orange_diamond: WK 2:
-- [ ] :small_orange_diamond: WK 3:
+- [x] :small_orange_diamond: WK 2: ***69,374 steps.***
+- [x] :small_orange_diamond: WK 3: ***63,886 steps.***
 - [ ] :small_orange_diamond: WK 4:
 - [ ] :small_orange_diamond: WK 5:
 - [ ] :small_orange_diamond: WK 6:
