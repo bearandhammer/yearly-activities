@@ -83,3 +83,4 @@ The following represents courses, under the banner of both personal/professional
 ## :notebook: Other Notes
 
 - [x] Improve the house. New fridge/freezer inbound. :date: 11th January 2023.
+- [x] Completed the accounts! :date: 22nd January 2023. :moneybag:
