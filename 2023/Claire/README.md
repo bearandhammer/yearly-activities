@@ -40,8 +40,8 @@ This section encapsulates personal/professional achievements made throughout the
 
 ### *Personal*
 
-- [x] :small_orange_diamond: The Paper Palace (Miranda Cowley Heller). :date: 16th January 2023.
-- [x] :small_orange_diamond: American Dirt (Jeanine Cummins). :date: 17th January 2023. :headphones:
+- [x] :small_orange_diamond: The Paper Palace (Miranda Cowley Heller). :date: 16th January 2023. :star::star::star::star::star:
+- [x] :small_orange_diamond: American Dirt (Jeanine Cummins). :date: 17th January 2023. :headphones: :star::star::star::star::star:
 
 ### *Professional*
 
