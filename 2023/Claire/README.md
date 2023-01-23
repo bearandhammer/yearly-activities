@@ -115,6 +115,9 @@ The following represents courses, under the banner of both personal/professional
 
 The following represents epic moments throughout the year. A great meal, a chess victory, a great day out...literally anything we should remember!
 
+- [x] Ate the 'hug in a bowl' curry (butter bean, squash and spinach by Spicebox). :curry:
+
 ## :notebook: Other Notes
 
 - [x] Improve the house. New fridge/freezer inbound. :date: 11th January 2023.
+- [x] Completed the accounts! :date: 22nd January 2023. :moneybag:
