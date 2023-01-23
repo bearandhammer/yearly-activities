@@ -53,7 +53,7 @@ The following list covers ***[bearandhammer.net](https://bearandhammer.net)*** b
 
 ### *Personal*
 
-- [x] :small_orange_diamond: The Lightning Cage (Alan Wall). :date: 16th January 2023.
+- [x] :small_orange_diamond: The Lightning Cage (Alan Wall). :date: 16th January 2023. :star::star::star::star:
 - [ ] :small_orange_diamond: Spark (Dr John J. Ratey and Eric Hagerman).
 - [ ] :small_orange_diamond: The Happiness Trap (Russ Harris).
 - [ ] :small_orange_diamond: The Devil's Inn (David Watkins).
