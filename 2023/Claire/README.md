@@ -121,3 +121,4 @@ The following represents epic moments throughout the year. A great meal, a chess
 
 - [x] Improve the house. New fridge/freezer inbound. :date: 11th January 2023.
 - [x] Completed the accounts! :date: 22nd January 2023. :moneybag:
+- [x] So, we finished watching Columbo (took over a year). All episodes! :date: 28th January 2023.
