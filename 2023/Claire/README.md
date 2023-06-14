@@ -30,7 +30,7 @@ This section encapsulates personal/professional achievements made throughout the
 ***NOTE: This year it would be great to get under 32 minutes at 5K, as a minimum benchmark. Also, let's complete that 10K (at least once!).***
 
 - [ ] :small_orange_diamond: Current 5k PB: ..:.. (to be ticked at the end of the year) :running_man:.
-- [ ] :small_orange_diamond: Longest distance run: .... (PB: ..:..). :running_man:.
+- [x] :small_orange_diamond: Longest distance run: 7k (PB: 54:00). :running_man:.
 
 ### *Professional*
 
